@@ -1,2 +1,2 @@
-Git is a version control system11111.
-Git is free software11111.
+hoset=127.0.0.1
+port=8761
